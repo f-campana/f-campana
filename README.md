@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  Open to Senior Full-stack TypeScript opportunities across France and Europe.
+</p>
+
+<p align="center">
   <a href="https://imageforge.dev">imageforge.dev</a>
   ·
   <a href="https://github.com/f-campana/imageforge">ImageForge CLI</a>
@@ -45,3 +49,4 @@ Marketing/documentation site for ImageForge, built with Next.js, Tailwind CSS, a
 - Website: [imageforge.dev](https://imageforge.dev)
 - LinkedIn: [fabien-campana](https://www.linkedin.com/in/fabien-campana/)
 - GitHub: [f-campana](https://github.com/f-campana)
+- Best contact for opportunities: [LinkedIn message](https://www.linkedin.com/in/fabien-campana/)
