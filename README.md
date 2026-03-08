@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fabien Campana</h1>
 
 <p align="center">
-  Full-stack developer building robust systems and developer tools.
+  Full-stack developer building robust systems, developer tools, and product foundations.
 </p>
 
 <p align="center">
@@ -13,14 +13,16 @@
   ·
   <a href="https://github.com/f-campana/imageforge">ImageForge CLI</a>
   ·
+  <a href="https://github.com/f-campana/fodmapp">fodmapp</a>
+  ·
   <a href="https://www.linkedin.com/in/fabien-campana/">LinkedIn</a>
 </p>
 
 ## Current Focus
 
+- Building **fodmapp**: evidence-backed data workflows, API/frontend foundations, and documentation/ops contracts in a public monorepo
 - Building **ImageForge CLI**: build-time image optimization for Next.js and web apps
-- Shipping predictable automation: CI gates, release workflows, and npm provenance
-- Improving DX around image pipelines (WebP/AVIF, placeholders, cache-based reruns)
+- Shipping predictable delivery: CI gates, regression checks, release workflows, and repo governance
 
 ## Featured Projects
 
@@ -31,17 +33,27 @@ Build-time image pipeline for Next.js and web apps.
 - Converts assets to optimized formats (`webp`, `avif`)
 - Generates `blurDataURL` placeholders
 - Uses hash-based caching for fast reruns
-- Supports CI check mode for deterministic pipelines
+- Supports CI checks, dry runs, glob filters, and machine-readable JSON output
+
+### [FODMAPP](https://github.com/f-campana/fodmapp)
+
+Documentation-first, evidence-backed platform-in-construction for low-FODMAP self-management support.
+
+- Public monorepo spanning Phase 2/3 data workflows, a read-only API contract, shared frontend foundations, and mobile prototypes
+- Recent public work includes Phase 3 pilot artifacts, API CI hardening, and documentation lifecycle classification
 
 ### [ImageForge Site](https://github.com/f-campana/imageforge-site)
 
-Marketing/documentation site for ImageForge, built with Next.js, Tailwind CSS, and TypeScript.
+Landing and documentation site for ImageForge, built with Next.js, Tailwind CSS, and TypeScript.
+
+- Adds regression quality gates across unit, E2E, visual, and Lighthouse checks
+- Enforces pricing freshness in CI
 
 ## Stack
 
 - TypeScript, Node.js
-- Next.js, React, Tailwind CSS
-- GitHub Actions, npm, pnpm
+- React, Next.js, Tailwind CSS
+- GitHub Actions, pnpm, CI/CD, repo governance
 - API and backend-oriented full-stack development
 
 ## Contact
