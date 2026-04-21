@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Fabien Campana</h1>
 
 <p align="center">
-  Full-stack developer building robust systems, developer tools, and product foundations.
+  Frontend-leaning full-stack engineer focused on React, TypeScript, Next.js,
+  shared UI systems, and product interfaces.
 </p>
 
 <p align="center">
-  Open to Senior Full-stack TypeScript opportunities across France and Europe.
+  Open to senior frontend and frontend-leaning full-stack product roles across France and Europe.
 </p>
 
 <p align="center">
@@ -20,9 +21,9 @@
 
 ## Current Focus
 
-- Building **fodmapp**: evidence-backed data workflows, API/frontend foundations, and documentation/ops contracts in a public monorepo
-- Building **ImageForge CLI**: build-time image optimization for Next.js and web apps
-- Shipping predictable delivery: CI gates, regression checks, release workflows, and repo governance
+- Building React/TypeScript product interfaces, shared UI foundations, and workflow-heavy applications
+- Using AI-assisted development workflows with strong testing, review, and documentation discipline
+- Shipping public projects that demonstrate product thinking, quality gates, and frontend/backend integration
 
 ## Featured Projects
 
@@ -51,10 +52,10 @@ Landing and documentation site for ImageForge, built with Next.js, Tailwind CSS,
 
 ## Stack
 
-- TypeScript, Node.js
-- React, Next.js, Tailwind CSS
-- GitHub Actions, pnpm, CI/CD, repo governance
-- API and backend-oriented full-stack development
+- TypeScript, React, Next.js, Node.js
+- Shared UI foundations, Storybook-oriented component workflows, testing, accessibility, i18n
+- Tailwind CSS, GitHub Actions, pnpm, CI/CD, repo governance
+- API and backend-aware full-stack product development
 
 ## Contact
 
