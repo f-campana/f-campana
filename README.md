@@ -1,65 +1,46 @@
-<h1 align="center">Hi, I'm Fabien Campana</h1>
+# Hi, I'm Fabien
 
-<p align="center">
-  Frontend-leaning full-stack engineer focused on React, TypeScript, Next.js,
-  shared UI systems, and product interfaces.
-</p>
+Frontend-leaning software engineer. I build interfaces, APIs, and product
+workflows, with a bias toward things that are easy to review and reason about.
 
-<p align="center">
-  Open to senior frontend and frontend-leaning full-stack product roles across France and Europe.
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-<p align="center">
-  <a href="https://imageforge.dev">imageforge.dev</a>
-  ·
-  <a href="https://github.com/f-campana/imageforge">ImageForge CLI</a>
-  ·
-  <a href="https://github.com/f-campana/fodmapp">fodmapp</a>
-  ·
-  <a href="https://www.linkedin.com/in/fabien-campana/">LinkedIn</a>
-</p>
+## Good Places To Start
 
-## Current Focus
+### [Northstar Deal Operations](https://github.com/f-campana/northstar-case-study)
 
-- Building React/TypeScript product interfaces, shared UI foundations, and workflow-heavy applications
-- Using AI-assisted development workflows with strong testing, review, and documentation discipline
-- Shipping public projects that demonstrate product thinking, quality gates, and frontend/backend integration
+A fixture-backed deal-operations workspace built for code review: App Router
+routes, typed read models, package boundaries, accessibility, localization,
+Storybook, and Playwright checks.
 
-## Featured Projects
+### [ImageForge](https://github.com/f-campana/imageforge) + [imageforge.dev](https://github.com/f-campana/imageforge-site)
 
-### [ImageForge CLI](https://github.com/f-campana/imageforge)
+A build-time image optimization CLI for Next.js and web apps. WebP/AVIF
+conversion, `blurDataURL` placeholders, hash caching, dry runs, CI check mode,
+and JSON output. The site covers docs, benchmarks, and Lighthouse checks.
 
-Build-time image pipeline for Next.js and web apps.
+### [AccessFlow](https://github.com/f-campana/accessflow)
 
-- Converts assets to optimized formats (`webp`, `avif`)
-- Generates `blurDataURL` placeholders
-- Uses hash-based caching for fast reruns
-- Supports CI checks, dry runs, glob filters, and machine-readable JSON output
+Full-stack workflow case study focused on durable state transitions: auth, typed
+commands, persistence, idempotency, audit events, typed errors, and a
+requester-facing UI.
 
 ### [FODMAPP](https://github.com/f-campana/fodmapp)
 
-Documentation-first, evidence-backed platform-in-construction for low-FODMAP self-management support.
+A product-system monorepo around low-FODMAP self-management: data workflows, a
+read-only API contract, shared frontend foundations, design tokens, Storybook,
+and mobile prototypes.
 
-- Public monorepo spanning Phase 2/3 data workflows, a read-only API contract, shared frontend foundations, and mobile prototypes
-- Recent public work includes Phase 3 pilot artifacts, API CI hardening, and documentation lifecycle classification
+### [Sunspot](https://github.com/f-campana/sunspot)
 
-### [ImageForge Site](https://github.com/f-campana/imageforge-site)
+A smaller tinkering project around 3D solar exposure analysis using Three.js,
+geocoding, and OSM building footprints.
 
-Landing and documentation site for ImageForge, built with Next.js, Tailwind CSS, and TypeScript.
+## Elsewhere
 
-- Adds regression quality gates across unit, E2E, visual, and Lighthouse checks
-- Enforces pricing freshness in CI
-
-## Stack
-
-- TypeScript, React, Next.js, Node.js
-- Shared UI foundations, Storybook-oriented component workflows, testing, accessibility, i18n
-- Tailwind CSS, GitHub Actions, pnpm, CI/CD, repo governance
-- API and backend-aware full-stack product development
-
-## Contact
-
-- Website: [imageforge.dev](https://imageforge.dev)
-- LinkedIn: [fabien-campana](https://www.linkedin.com/in/fabien-campana/)
-- GitHub: [f-campana](https://github.com/f-campana)
-- Best contact for opportunities: [LinkedIn message](https://www.linkedin.com/in/fabien-campana/)
+[imageforge.dev](https://imageforge.dev) |
+[LinkedIn](https://www.linkedin.com/in/fabien-campana/) |
+[GitHub](https://github.com/f-campana)
